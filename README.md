@@ -1,2 +1,2 @@
 # simple-todo-app-js
-Learn nest and react
+Just init with get nest JS
